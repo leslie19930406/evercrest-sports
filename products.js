@@ -1,7 +1,7 @@
 // Replace contact details with your own real business contact before publishing.
 window.EVERCREST_CONFIG = {
-  email: "",       // Your real business email, e.g. sales@yourdomain.com
-  whatsapp: "",    // International format, digits only: country code + number
+  email: "evercrest.leslie@gmail.com",       // Your real business email, e.g. sales@yourdomain.com
+  whatsapp: "+8618248978905",    // International format, digits only: country code + number
   companyName: "Evercrest",
   websiteUrl: ""   // Optional: final published URL for canonical SEO
 };
