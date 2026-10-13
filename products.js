@@ -2,7 +2,7 @@
 window.EVERCREST_CONFIG = {
   email: "evercrest.leslie@gmail.com",       // Your real business email, e.g. sales@yourdomain.com
   whatsapp: "+8618248978905",    // International format, digits only: country code + number
-  companyName: "Evercrest",
+  companyName: "Yongfeng Global Trading",
   websiteUrl: ""   // Optional: final published URL for canonical SEO
 };
 // Product data is editable. Local SVGs are illustrative placeholders, not product photos.
