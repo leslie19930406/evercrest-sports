@@ -1,4 +1,4 @@
-# Evercrest — Custom Sportswear & Team Jerseys
+# Yongfeng Global Trading — Custom Sportswear & Team Jerseys
 
 Responsive English-first B2B catalogue built with plain HTML, CSS and JavaScript. No build step or server is required.
 
