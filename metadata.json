@@ -1,0 +1,8 @@
+{
+  "name": "Yongfeng Global Trading | Custom Sportswear & Team Jerseys",
+  "description": "Yongfeng Global Trading custom sportswear and team jerseys for clubs, brands, schools, and distributors. Explore styles and request a quote.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
